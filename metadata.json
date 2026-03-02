@@ -1,0 +1,5 @@
+{
+  "name": "FrameFlow",
+  "description": "AI Image-to-Video Pipeline Builder for content creators.",
+  "requestFramePermissions": []
+}
